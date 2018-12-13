@@ -1,6 +1,4 @@
-package findindoubledimensionalarray;
-
-import sun.applet.Main;
+package find_in_double_dimensional_array;
 
 // 二维数组的查找
 // 题目：在一个二维数组中，每一行元素都按照从左到右递增的顺序排序，
